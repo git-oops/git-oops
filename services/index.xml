@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Hugo Hero Theme</title>
-    <link>www.example.com/services/</link>
+    <link>/services/</link>
     <description>Recent content in Services on Hugo Hero Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>方案咨询</title>
-      <link>www.example.com/services/%E6%96%B9%E6%A1%88%E5%92%A8%E8%AF%A2/</link>
+      <link>/services/%E6%96%B9%E6%A1%88%E5%92%A8%E8%AF%A2/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>www.example.com/services/%E6%96%B9%E6%A1%88%E5%92%A8%E8%AF%A2/</guid>
+      <guid>/services/%E6%96%B9%E6%A1%88%E5%92%A8%E8%AF%A2/</guid>
       <description>Our service</description>
     </item>
     
     <item>
       <title>指导</title>
-      <link>www.example.com/services/%E6%8C%87%E5%AF%BC/</link>
+      <link>/services/%E6%8C%87%E5%AF%BC/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>www.example.com/services/%E6%8C%87%E5%AF%BC/</guid>
+      <guid>/services/%E6%8C%87%E5%AF%BC/</guid>
       <description></description>
     </item>
     
     <item>
       <title>技术支持</title>
-      <link>www.example.com/services/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/</link>
+      <link>/services/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>www.example.com/services/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/</guid>
+      <guid>/services/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/</guid>
       <description>技术支持</description>
     </item>
     
     <item>
       <title>定制开发</title>
-      <link>www.example.com/services/%E5%AE%9A%E5%88%B6%E5%BC%80%E5%8F%91/</link>
+      <link>/services/%E5%AE%9A%E5%88%B6%E5%BC%80%E5%8F%91/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>www.example.com/services/%E5%AE%9A%E5%88%B6%E5%BC%80%E5%8F%91/</guid>
+      <guid>/services/%E5%AE%9A%E5%88%B6%E5%BC%80%E5%8F%91/</guid>
       <description>定制开发</description>
     </item>
     
     <item>
       <title>培训</title>
-      <link>www.example.com/services/%E5%9F%B9%E8%AE%AD/</link>
+      <link>/services/%E5%9F%B9%E8%AE%AD/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>www.example.com/services/%E5%9F%B9%E8%AE%AD/</guid>
+      <guid>/services/%E5%9F%B9%E8%AE%AD/</guid>
       <description>培训</description>
     </item>
     
     <item>
       <title>实施</title>
-      <link>www.example.com/services/%E5%AE%9E%E6%96%BD/</link>
+      <link>/services/%E5%AE%9E%E6%96%BD/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>www.example.com/services/%E5%AE%9E%E6%96%BD/</guid>
+      <guid>/services/%E5%AE%9E%E6%96%BD/</guid>
       <description>实施</description>
     </item>
     
